@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eman Emair</h1>
-<h3 align="center">A passionate Software Developer and UX designer</h3>
+<h3 align="center">A passionate Software Developer, UX designer, Data Analyst </h3>
 
 
  
