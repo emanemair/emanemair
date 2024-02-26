@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **prgramming, problem solving, data analysis and user experience**
 
-- 📫 How to reach me **emanemair2@gmail.com**
+- 📫 How to reach me **emanimair2@gmail.com**
 
 
 <p align="left">
