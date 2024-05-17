@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Eman Emair</h1>
-<h3 align="center">A passionate Software Developer , Data Analyst and UX designer</h3>
-
-- 💬 Ask me about **prgramming, problem solving, data analysis and user research**
 
 - 📫 How to reach me **emanemair2@gmail.com**
 
